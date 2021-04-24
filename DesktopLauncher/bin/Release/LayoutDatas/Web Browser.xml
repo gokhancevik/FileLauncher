@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DataLayout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <layoutId>1</layoutId>
+  <layoutName>Web Browser</layoutName>
+  <layoutDate>2021-04-25T00:22:03.9975616+03:00</layoutDate>
+  <basePath>C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\bin\Release\LayoutDatas\Web.xml</basePath>
+  <isDefault>true</isDefault>
+  <filePathList>
+    <string>C:\Users\GNC\Desktop\Opera Browser.lnk</string>
+    <string>C:\Users\Public\Desktop\Microsoft Edge.lnk</string>
+    <string>C:\Users\Public\Desktop\Google Chrome.lnk</string>
+    <string>C:\Program Files\Google\Chrome\Application\chrome.exe</string>
+  </filePathList>
+</DataLayout>

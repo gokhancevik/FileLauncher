@@ -1,0 +1,13 @@
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\bin\Debug\DesktopLauncher.exe.config
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\bin\Debug\DesktopLauncher.exe
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\bin\Debug\DesktopLauncher.pdb
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.csproj.GenerateResource.cache
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.csproj.CoreCompileInputs.cache
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.exe
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.pdb
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.Launcher.resources
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.LayoutSave.resources
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.LayoutLoad.resources
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.LayoutDeleteOrUprdate.resources
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.csprojAssemblyReference.cache
+C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\obj\Debug\DesktopLauncher.LayoutDetail.resources

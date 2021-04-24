@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DataLayout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <layoutId>3</layoutId>
+  <layoutName>Mixed</layoutName>
+  <layoutDate>2021-04-25T00:56:10.8267674+03:00</layoutDate>
+  <basePath>C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\bin\Release\LayoutDatas\Mixed.xml</basePath>
+  <isDefault>true</isDefault>
+  <filePathList>
+    <string>C:\Users\GNC\AppData\Local\GitHubDesktop\GitHubDesktop.exe</string>
+    <string>E:\MSSQL\Common7\IDE\Ssms.exe</string>
+    <string>C:\Users\GNC\AppData\Local\Programs\Opera\launcher.exe</string>
+    <string>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe</string>
+    <string>C:\Users\GNC\AppData\Local\Programs\Microsoft VS Code\Code.exe</string>
+    <string>C:\Users\GNC\AppData\Local\WhatsApp\WhatsApp.exe</string>
+  </filePathList>
+</DataLayout>

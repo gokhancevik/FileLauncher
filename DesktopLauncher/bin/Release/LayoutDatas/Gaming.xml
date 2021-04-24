@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DataLayout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <layoutId>3</layoutId>
+  <layoutName>Gaming</layoutName>
+  <layoutDate>2021-04-25T00:56:23.2632757+03:00</layoutDate>
+  <basePath>C:\Users\GNC\source\repos\DesktopLauncher\DesktopLauncher\bin\Release\LayoutDatas\Gaming.xml</basePath>
+  <isDefault>true</isDefault>
+  <filePathList>
+    <string>C:\Users\Public\Desktop\Unity Hub.lnk</string>
+    <string>C:\Users\Public\Desktop\OBS Studio.lnk</string>
+  </filePathList>
+</DataLayout>
